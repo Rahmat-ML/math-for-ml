@@ -34,7 +34,7 @@ Each notebook focuses on different mathematical concepts used in machine learnin
 You can open any notebook directly in Google Colab without installation.  
 Simply click this badge and replace the filename in the URL with the one you want to open:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rahmat-ML/math-for-ml/blob/main/session-1.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rahmat-ML/math-for-ml/blob/main/session-2.ipynb)
 
 > Example: change `session-1.ipynb` to `session-2.ipynb` in the URL for the second notebook.
 
